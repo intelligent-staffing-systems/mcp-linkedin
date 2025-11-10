@@ -1,0 +1,20 @@
+{
+  "name": "mcp-linkedin",
+  "version": "0.1.0",
+  "description": "MCP server for managing LinkedIn posts",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test_post.js"
+  },
+  "keywords": [
+    "mcp",
+    "linkedin",
+    "api",
+    "automation"
+  ],
+  "author": "Lucas Draney",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
